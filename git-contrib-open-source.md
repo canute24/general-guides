@@ -1,11 +1,11 @@
 # How to contribute to open source projects
 ###### Source: https://www.dataschool.io/how-to-contribute-on-github/
 
-**Naming conventions:**\
-repo: repository\
-local: your machine repo\
-origin: your fork on the server\
-upstream: main repo
+**Naming conventions:**
+* repo: repository
+* local: your machine repo
+* origin: your fork on the server
+* upstream: main repo
 
 **Steps:**
 1. Fork the project repo on the git server
