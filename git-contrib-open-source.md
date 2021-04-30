@@ -3,6 +3,7 @@
 
 **Naming conventions:**
 * repo: repository
+* fork: your copy of the main repo on the server
 * local: your machine repo
 * origin: your fork on the server
 * upstream: main repo
